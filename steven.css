@@ -1,0 +1,60 @@
+body {
+	align-items: center;
+	background:url('bg.jpg');
+	padding: 70px;
+	
+}
+h2 {
+	font-family: Times New Roman;
+	font-size: 40px;
+	text-shadow: 2px 2px;
+}
+h1 {
+	font-family: Times New Roman;
+	font-size: 23px;
+
+}
+
+img {
+	float: right;
+	border-radius: 8px;
+}
+div {
+  	margin-top: 1px;
+  	margin-bottom: 20px;
+  	margin-right: 200px;
+  	margin-left: 80px;
+  	background-color: white;
+  	border-radius: 8px;
+  	padding: 10px;
+}
+div.relative {
+  	position: relative;
+  	left: 1px;
+}
+div.relatives{
+  	position: relative;
+ 	left: 1px;
+}
+table{
+	width:70%;
+	border-collapse: collapse;
+	height: 1%;
+	padding: 20px;
+}
+tr:hover {background-color: #b3d9ff;}
+}
+td {
+	padding: 2px;
+	text-aling:left;
+	height:10px;
+}
+table, td, th {
+	padding: 30px;
+	margin-bottom: 20px;
+
+}
+th, td {
+	padding: 5px;
+	margin-bottom: 50px;
+}
